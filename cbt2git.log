@@ -1,0 +1,5 @@
+2023-04-03 01:04:41.378694 - Initialized conversion of CBT546
+2023-04-03 01:04:41.459224 - Received CBT.V504.FILE546.PDS from FILE546.XMI 
+2023-04-03 01:04:41.462063 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE546.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:04:41.463180 - Found @FILE546.txt (text/plain) in CBT.V504.FILE546.PDS, moved to PDS/@FILE546
+2023-04-03 01:04:41.465544 - De-xmi-ed PL360B01 to CBT546/docs/PL360B01.pdf
